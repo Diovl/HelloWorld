@@ -17,12 +17,12 @@
                 <artifactId>jelastic-maven-plugin</artifactId>
                 <version>1.8</version>
                 <configuration>
-                    <email>gleb.antonov@jelastic.com</email>
-                    <password>1q2w3e4r</password>
+                    <email>user@example.com</email>
+                    <password>passw0rd</password>
                     <context>ROOT</context>
                     <environment>${ENV_NAME}</environment>
                     <comment>test-plugin</comment>
-                    <api_hoster>app.demo.jelastic.com</api_hoster>
+                    <api_hoster>app.platformm</api_hoster>
                 </configuration>
             </plugin>
         </plugins>
