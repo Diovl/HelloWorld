@@ -22,7 +22,7 @@
                     <context>ROOT</context>
                     <environment>${ENV_NAME}</environment>
                     <comment>test-plugin</comment>
-                    <api_hoster>app.platformm</api_hoster>
+                    <api_hoster>app.platform</api_hoster>
                 </configuration>
             </plugin>
         </plugins>
